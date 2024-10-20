@@ -6,8 +6,8 @@ Selamat datang di repositori ini! Repositori ini berisi kumpulan modul dan post-
 
 ### Struktur Repositori
 
-- `Notebook Python menggunakan Google Collab/`: File ini merupakan contoh template notebook berformat .ipynb yang memudahkan proses KBM. Silakan unduh template-nya lalu unggah pada Google Collab kalian masing-masing. Kemudian tautkan Google Collab kalian ke repository GitHub. Simpan cadangan file notebook pada repository GitHub kalian. 
-- 
+- `Notebook Python menggunakan Google Collab/`: File ini merupakan contoh template notebook berformat .ipynb yang memudahkan proses KBM. Silakan unduh template-nya lalu unggah pada Google Collab kalian masing-masing. Kemudian tautkan Google Collab kalian ke repository GitHub. Simpan cadangan file notebook pada repository GitHub kalian.
+
 - `modul/`: Folder ini berisi modul-modul praktikum yang dibahas di setiap pertemuan laboratorium.
   - **Modul 1**: Pendahuluan dan Pemilihan dengan Python
   - **Modul 2**: 
