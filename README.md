@@ -10,8 +10,8 @@ Selamat datang di repositori ini! Repositori ini berisi kumpulan modul dan post-
 
 - `modul/`: Folder ini berisi modul-modul praktikum yang dibahas di setiap pertemuan laboratorium.
   - **Modul 1**: Pendahuluan dan Pemilihan dengan Python
-  - **Modul 2**: 
-  - **Modul 3**: 
+  - **Modul 2**: Perulangan (LOOP)
+  - **Modul 3**: Array
   - **Modul 4**: 
   - **Modul 5**: 
   - **Modul 6**: 
